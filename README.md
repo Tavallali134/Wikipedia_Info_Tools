@@ -38,3 +38,7 @@ A command-line Python app that retrieves and displays Wikipedia page details suc
 Run the Wikipedia_Info_Tools.py file:
 
 python Wikipedia_Info_Tools.py
+
+## License
+
+MIT License
