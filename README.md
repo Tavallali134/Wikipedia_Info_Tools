@@ -9,19 +9,19 @@ A command-line Python app that retrieves and displays Wikipedia page details suc
 
 ## Commands
 
-- search: Search for pages in Wikipedia
-- page title: Get and display the title of a specific page
-- page summary: Display the summary of the loaded page
-- page text: Display the full text content of the loaded page
-- page address: Display the URL of the loaded page
-- page links: Display all internal links from the loaded page
-- help: Show available commands
-- exit: Exit the program
+search: Search for pages in Wikipedia
+load page: Get and display the title of a specific page
+page summary: Display the summary of the loaded page
+page text: Display the full text content of the loaded page
+page address: Display the URL of the loaded page
+page links: Display all internal links from the loaded page
+help: Show available commands
+exit: Exit the program
 
 ## How to Use
 
 1. First use 'search' to find pages related to your topic
-2. Then use 'page title' to load a specific page
+2. Then use 'load page' to load a specific page
 3. After loading a page, you can use:
    - 'page summary' to see a brief overview
    - 'page text' to see the complete content
